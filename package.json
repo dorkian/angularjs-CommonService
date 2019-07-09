@@ -1,19 +1,17 @@
 {
-  "name": "common service",
+  "name": "angularjs-commonservice",
   "version": "1.0.0",
   "description": "Reusable service for angularjs",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "Ashkan Dorkian",
-  "license": "MIT",
+  "license": "angularjs-commonservice",
+  "url": "https://github.com/dorkian/angularjs-CommonService.git",
   "dependencies": {
     "angular": "^1.7.4",
     "angular-animate": "^1.7.4",
     "angular-route": "^1.7.4",
     "angular-sanitize": "^1.7.4",
-    "bootstrap": "^3.3.2",    
+    "bootstrap": "^3.3.2",
     "jquery": "^3.4.1"
   }
 }
