@@ -7,7 +7,7 @@
   "license": "angularjs-commonservice",
   "url": "https://github.com/dorkian/angularjs-CommonService.git",
   "dependencies": {
-    "angular": "^1.7.4",
+    "angular": "^1.8.3",
     "angular-animate": "^1.7.4",
     "angular-route": "^1.7.4",
     "angular-sanitize": "^1.7.4",
